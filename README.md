@@ -1,6 +1,6 @@
 # flutter_quran
 
-A new Flutter project.
+A new Flutter project with case study alquran
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Installasion
+- enter api folder and run nodejs to setup local api
+- run main folder with flutter 
